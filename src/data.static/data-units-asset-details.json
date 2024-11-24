@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "name": "Buy Unit",
+      "icon": "bx bx-cart-download",
+      "avtr": "",
+      "link": "",
+      "user": ["user"],
+      "live": true,
+      "actv": true
+    },
+    {
+      "name": "Create Offers",
+      "icon": "bx bx-purchase-tag",
+      "avtr": "",
+      "link": "#offercreate",
+      "user": ["user"],
+      "live": true,
+      "actv": true
+    },
+    {
+      "name": "Document",
+      "icon": "bx bx-file",
+      "avtr": "",
+      "link": "#agreementdownload",
+      "user": ["user"],
+      "live": true,
+      "actv": true
+    }
+  ]
+}

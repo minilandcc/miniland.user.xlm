@@ -1,0 +1,39 @@
+{
+  "data" : [
+    {
+      "meta": { "name": "PAN Card" }, 
+      "memo": "User Pan Card", 
+      "code": "fiat-inrx-va", 
+      "icon": "bx bx-file", 
+      "link": "/user/docs/taxnum/create",
+      "text": "Upload",
+      "actv": true,
+      "user": ["user"],
+      "item": "699afacd-f87a-4fb6-acb0-9f44071ee4ca",
+      "form": "PAN Card"
+    },
+    {
+      "meta": {"name": "Aadhaar Card"}, 
+      "memo": "Personal Identification Card", 
+      "code": "fiat-inrx-bank", 
+      "icon": "bx bx-file",
+      "link": "/user/docs/aadhaar/create",
+      "text": "Upload",
+      "actv": true,
+      "user": ["user", "team"],
+      "item": "33c7814a-19d2-44d4-83d1-e6aa303639db",
+      "form": "Aadhaar Card"
+    },
+    {
+      "name": "Utility Bill", 
+      "memo": "Electricity / Utility Bill (recent)", 
+      "code": "web3-algo-algorand", 
+      "icon": "bx bx-file",
+      "link": "/user/docs/bills/create",
+      "text": "Upload",
+      "actv": false,
+      "user": ["user", "team"],
+      "item": "6c0e9af0-1c40-4105-9894-86554c152899"
+    }
+  ]
+}

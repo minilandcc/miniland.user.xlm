@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "name": "Overview",
+      "text": "overview",
+      "icon": "bx bx-message-detail",
+      "avtr": "",
+      "link": "/team/contracts/new/info",
+      "user": ["user", "team"],
+      "actv": true,
+      "live": true
+    },
+    {
+      "name": "Accounts",
+      "text": "accounts",
+      "icon": "bx bx-home-circle",
+      "avtr": "",
+      "link": "documents/new/info",
+      "user": ["user", "team"],
+      "actv": true,
+      "live": true
+    },
+    {
+      "name": "Transactions",
+      "text": "transactions",
+      "icon":"bx bx-wallet-alt",
+      "avtr": "",
+      "link": "documents/new/bulk",
+      "user": ["user", "team"],
+      "actv": false,
+      "live": false
+    },
+    {
+      "name": "Team",
+      "text": "team",
+      "icon": "bx bx-group",
+      "avtr": "",
+      "link": "documents/new/bulk",
+      "user": ["user", "team"],
+      "actv": false,
+      "live": false
+    },
+    {
+      "name": "Documents",
+      "text": "documents",
+      "icon": "bx bx-file-blank",
+      "avtr": "",
+      "link": "documents/new/bulk",
+      "user": ["user", "team"],
+      "actv": true,
+      "live": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "data" : [
+      {"code": "9", "text": "All Status", "icon": "bi-check-circle-fill", "colr":"tone"},
+      {"code": "3", "text": "Ready To Send", "icon": "bi-check-circle-fill", "colr":"tone"},
+      {"code": "0", "text": "Draft", "icon": "bi-exclamation-circle-fill", "colr":"tint"}, 
+      {"code": "1", "text": "Under e-kyc", "icon": "bi-exclamation-circle-fill", "colr":"warning"}, 
+      {"code": "2", "text": "Processing", "icon": "bi-clock-fill", "colr":"warning"}, 
+      {"code": "6", "text": "Active", "icon": "bi-check-circle-fill", "colr":"success"},
+      {"code": "8", "text": "Active & Stamped", "icon": "bi-check-circle-fill", "colr":"success"},
+      {"code": "4", "text": "Under Stamping", "icon": "bi-check-circle-fill", "colr":"warning"},
+      {"code": "7", "text": "Expired", "icon": "bi-x-circle-fill", "colr":"tone"},
+      {"code": "10", "text": "Template File Preparing", "icon": "bi-check-circle-fill", "colr":"tone"},
+      {"code": "11", "text": "Document Cancelled", "icon": "bi bi-x-circle", "colr":"danger"}
+    ]
+  }

@@ -1,0 +1,8 @@
+{
+    "data" : [
+      {"code":"0", "text":"Draft", "colr":"warning"}, 
+      {"code":"1", "text":"Pending", "colr":"warning"},
+      {"code":"2", "text":"Pending", "colr":"warning"},
+      {"code":"6", "text":"Completed", "colr":"success"}
+    ]
+  }

@@ -1,0 +1,18 @@
+/* .inputBox {
+  width: 31vw;
+  background-color: #c83900;
+}
+
+@media only screen and (max-width: 1200px) {
+  .inputBox {
+    width: 42vw;
+    background-color: #00c853;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .inputBox {
+    width:100%;
+    background-color: #00c853;
+  }
+} */

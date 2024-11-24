@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "name": "Home",
+      "text": "",
+      "icon": "bx bx-home-alt",
+      "code": "home",
+      "link": "home",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "show": { "main": true, "mini": true },
+      "actv": true
+    },
+    {
+      "name": "Assets",
+      "text": "",
+      "icon": "bx bx-grid",
+      "code": "assets",
+      "link": "assets",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "show": { "main": true, "mini": false },
+      "actv": true
+    },
+    {
+      "name": "Vault",
+      "text": "",
+      "icon": "bx bx-briefcase",
+      "code": "vault",
+      "link": "vault",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "show": { "main": true, "mini": true },
+      "actv": true
+    },
+    {
+      "name": "Network",
+      "text": "",
+      "icon": "bx bx-group",
+      "code": "network",
+      "link": "network/founders",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "show": { "main": true, "mini": true },
+      "actv": false
+    },
+
+    {
+      "name": "Transfers",
+      "text": "",
+      "icon": "bx bx-wallet-alt",
+      "code": "transfers",
+      "link": "transfers",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "show": { "main": true, "mini": true },
+      "actv": true
+    },
+
+    {
+      "name": "Rooms",
+      "text": "",
+      "icon": "bx bx-message-square-dots",
+      "code": "rooms",
+      "link": "rooms",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "show": { "main": true, "mini": true },
+      "actv": true
+    }
+  ]
+}

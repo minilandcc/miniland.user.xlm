@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "name": "Account Recharge",
+      "text": "recharge",
+      "icon": "bx bx-plus-circle",
+      "avtr": "",
+      "link": "account/credit",
+      "user": ["user", "team"],
+      "live": true,
+      "actv": true
+    },
+    {
+      "name": "Download Statement",
+      "text": "download transaction excel statement",
+      "icon": "bx bx-download",
+      "avtr": "",
+      "link": "transfers/statement",
+      "user": ["user", "team"],
+      "live": true,
+      "actv": true
+    }
+  ]
+}

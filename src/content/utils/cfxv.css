@@ -1,0 +1,45 @@
+.column1 {
+  max-width: 5%;
+}
+
+@media only screen and (max-width: 1200px) {
+  .column1 {
+    max-width: 5%;
+  }
+}
+
+.column2 {
+  max-width: 20%;
+}
+
+@media only screen and (max-width: 1200px) {
+  .column2 {
+    max-width: 30%;
+  }
+}
+
+.column3 {
+  max-width: 50%;
+}
+
+@media only screen and (max-width: 1200px) {
+  .column3 {
+    max-width: 70%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .column3 {
+    max-width: 100%;
+  }
+}
+
+.column4 {
+  max-width: 25%;
+}
+
+@media only screen and (max-width: 1200px) {
+  .column4 {
+    max-width: 25%;
+  }
+}

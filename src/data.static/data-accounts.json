@@ -1,0 +1,60 @@
+{
+  "data" : [
+    {
+      "meta": {
+        "name": "Miniland Funds",
+        "memo": "Miniland Account for Purchase and Internal Transactions"
+      }, 
+      "code": "fiat-inrx-va", 
+      "icon": "bx bx-wallet-alt", 
+      "link": "accounts/base/create",
+      "text": "Create",
+      "actv": true,
+      "user": ["user", "team"],
+      "form": "fiat",
+      "sort": "base"
+    },
+    {
+      "meta": {
+        "name": "Miniland Assets",
+        "memo": "Miniland Digital Assets account Powered by Blockchain"
+      },
+      "code": "web3-algo-algorand", 
+      "icon": "bx bx-grid-alt",
+      "link": "accounts/minter/create",
+      "text": "Create",
+      "actv": true,
+      "user": ["user", "team"],
+      "form": "web3",
+      "sort": "minter"
+    }, 
+    {
+      "meta": {
+        "name": "Transit Account",
+        "memo": "For Account Recharge via NEFT, RTGS via Netbanking"
+      },
+      "code": "fiat-inrx-va", 
+      "icon": "bx bx-grid-alt",
+      "link": "accounts/minter/create",
+      "text": "Create",
+      "actv": false,
+      "user": ["user", "team"],
+      "form": "fiat",
+      "sort": "transit"
+    },  
+    {
+      "meta": {
+        "name": "Bank Account",
+        "memo": "All Settlement and Withdrawals will be sent here"
+      }, 
+      "code": "fiat-inrx-bank", 
+      "icon": "bx bx-store-alt",
+      "link": "accounts/bank/create",
+      "text": "Link",
+      "actv": true,
+      "user": ["user", "team"],
+      "form": "fiat",
+      "sort": "bank"
+    }
+  ]
+}

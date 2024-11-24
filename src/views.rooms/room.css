@@ -1,0 +1,33 @@
+.inputBox {
+  position: fixed;
+  bottom: 10px;
+  width: 47.5%;
+}
+
+.mainBox {
+  height: calc(100vh-56px);
+}
+
+@media only screen and (max-width: 768px) {
+  .inputBox {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+    right: 0px; 
+  }
+  .mainBox {
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 768px) {
+  .inputBox {
+    position: fixed;
+    bottom: 0px;
+    width: 67%;
+  }
+  .mainBox {
+    height: calc(100vh-56px);
+  }
+}
